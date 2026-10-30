@@ -12,3 +12,4 @@ Frontend redirect wrapper to bypass in-app browser restrictions (LINE, Facebook,
 1. Repository: `porchebkkai/kg-report-card`
 2. Source branch: `main`, folder: `/ (root)`
 3. Site URL: `https://porchebkkai.github.io/kg-report-card/`
+
